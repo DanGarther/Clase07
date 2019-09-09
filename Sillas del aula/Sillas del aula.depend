@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1568038878 source:c:\users\alumno\desktop\clase07\sillas del aula\main.c
+	<stdio.h>
+	<stdlib.h>
+	"array2.h"
+
+1568036032 c:\users\alumno\desktop\clase07\sillas del aula\array.h
+	<stdio.h>
+
+1568038864 c:\users\alumno\desktop\clase07\sillas del aula\array2.h
+	<stdio.h>
+
+1568039102 source:c:\users\alumno\desktop\clase07\sillas del aula\array2.c
+	"array2.h"
+

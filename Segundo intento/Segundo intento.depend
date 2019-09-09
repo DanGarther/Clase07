@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1568041804 source:c:\users\alumno\desktop\segundo intento\main.c
+	<stdio.h>
+	<stdlib.h>
+	"misfunciones.h"
+
+1568037172 c:\users\alumno\desktop\segundo intento\desarollo.h
+	<stdio.h>
+
+1568038757 c:\users\alumno\desktop\segundo intento\misfunciones.h
+	<stdio.h>
+
+1568041780 source:c:\users\alumno\desktop\segundo intento\misfunciones.c
+	"misfunciones.h"
+
